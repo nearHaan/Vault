@@ -1,16 +1,3 @@
-# vault_app
+# Vault
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A password management application built on Flutter and Dart, designed with a strong focus on privacy and security. Vault stores all passwords locally on the user’s device, encrypted for protection, with the Hive package used for efficient and lightweight data storage. By avoiding cloud storage entirely, it eliminates the risk of server-side data breaches, while its clean and intuitive user interface, designed by me, ensures a seamless and visually appealing experience.
